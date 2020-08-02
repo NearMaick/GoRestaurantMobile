@@ -25,7 +25,6 @@ interface Food {
   price: number;
   formattedValue: number;
   thumbnail_url: string;
-  formattedPrice: string;
 }
 
 const Orders: React.FC = () => {
